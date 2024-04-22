@@ -1,5 +1,5 @@
-2. Performance - how fast does the system return results?
-1. Scalability - how much will performance change with higher workloads?
+1. Performance - how fast does the system return results?
+2. Scalability - how much will performance change with higher workloads?
 3. Maintainability - how much time does it take to fix the issue when it arises?
 4. Security - how well is the system protected against unauthorized access and attack
 5. Portability - Can the system work on different hardware/software configurations?
